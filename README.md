@@ -12,4 +12,4 @@ DevQuick is a VS Code extension built with TypeScript and Axios. It solves the "
 - **Language:** TypeScript
 - **Runtime:** Node.js
 - **API:** REST / uslessfacts API
--
+![DevQuick Demo](preview.jpg)
