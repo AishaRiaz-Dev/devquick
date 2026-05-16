@@ -1,4 +1,9 @@
 # DevQuick 🚀
+![GitHub repo size](https://img.shields.io/github/repo-size/AishaRiaz-Dev/DevQuick?color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/AishaRiaz-Dev/DevQuick?color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/AishaRiaz-Dev/DevQuick)
+![GitHub last commit](https://img.shields.io/github/last-commit/AishaRiaz-Dev/DevQuick?color=orange)
+
 **Test APIs without leaving your editor.**
 
 DevQuick is a VS Code extension built with TypeScript and Axios. It solves the "context-switching" problem by allowing developers to trigger REST API calls directly from the Command Palette.
